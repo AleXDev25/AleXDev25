@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Novice DevOps engineer from Russia</h3>
+<h3 align="center">DevOps engineer from Russia</h3>
 
-- 🌱 I’m currently learning **DevOps tools**
+- 🌱 I’m currently working as DevOps engineer 
+- 🔭 I’m currently working on my IoT project
 - 📫 How to reach me: <a href="https://t.me/alex413">Telegram</a> <a href="https://www.instagram.com/_alex413_/">Instagram</a>
 
 <h3 align="left">Languages and Tools:</h3>
